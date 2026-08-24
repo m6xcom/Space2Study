@@ -1,0 +1,46 @@
+{
+  "stepLabels": {
+    "generalInfo": "General Information",
+    "language": "Language",
+    "subjects": "Subjects",
+    "photo": "Photo"
+  },
+  "generalInfo": {
+    "title": "Please provide the following details to complete your profile setup. You can always update this information in your account settings later, but for now, it's important for us to know who you are.",
+    "textFieldLabel": "Describe in short your professional status",
+    "helperText": "Inputs with the * sign are required",
+    "inputFirstName": "First Name",
+    "inputLastName": "Last Name",
+    "selectCountry": "Country",
+    "selectCity": "City",
+    "checkboxAgeVerification": "I confirm that I am over 18 years old"
+  },
+  "experience": {
+    "title": "Describe your professional experience. Maximum 70 characters.",
+    "textFieldLabel": "Text here"
+  },
+  "languages": {
+    "title": "Please select the relevant data to set up your profile. Other categories you can add in your account settings later.",
+    "autocompleteLabel": "Your native language",
+    "emptyFields": "All fields must be filled"
+  },
+  "categories": {
+    "title": "Please select the relevant data to set up your profile. Other categories you can add in your account settings later.",
+    "mainSubjectsLabel": "Main Tutoring Category",
+    "subjectLabel": "Subject",
+    "btnText": "Add one more subject",
+    "emptyFields": "All fields must be filled",
+    "sameSubject": "You have the same subject"
+  },
+  "photo": {
+    "imageAlt": "Your photo",
+    "button": "Upload your profile photo",
+    "placeholder": "Photo Preview",
+    "description": "Please select your photo to set up your profile. You can change this in your account settings later.",
+    "typeError": "Wrong file type. Only .png/.jpg/.jpeg files are allowed.",
+    "fileSizeError": "Size for one file cannot be more than 10MB."
+  },
+  "successMessage": "Success! Your data were added.",
+  "errorMessage": "Error! Please complete all required fields before submitting.",
+  "errorPhotoUploadMessage": "Error! Photo can not be uploaded."
+}

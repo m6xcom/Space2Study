@@ -1,0 +1,54 @@
+{
+  "offerRequestBlock": {
+    "title": {
+      "tutor": "Student for private lessons",
+      "student": "Tutor for private lessons"
+    },
+    "description": "A Space2Study platform is the best place where you can teach. Type who or what would you like to teach and find students for that.",
+    "button": "Create request"
+  },
+  "titleWithDescription": {
+    "title": "Explore Offers",
+    "description": "Discover offers in your area of interest"
+  },
+  "backToAllSubjects": "Back to all subjects",
+  "searchToolbar": {
+    "label": "Search by tutor name"
+  },
+  "topMenu": {
+    "tutorsOffers": "Tutors’ offers",
+    "studentsRequests": "Students’ requests"
+  },
+  "contentSwitcher": {
+    "switcher-tutor": "Offers from tutors for classes in various categories and subjects",
+    "switcher-student": "Offers from students for classes in various categories and subjects"
+  },
+  "radioFilter": {
+    "rating": "Rating",
+    "any": "Any rating",
+    "5stars": "5 stars",
+    "4stars": "4 and above",
+    "3stars": "3 and above"
+  },
+  "filterTitles": {
+    "rating": "Rating",
+    "level": "Level",
+    "language": "Language",
+    "price": "Price",
+    "search": "Search by name",
+    "nativeSpeaker": "Native speaker"
+  },
+  "sortTitles": {
+    "newest": "Newest",
+    "rating": "Rating",
+    "priceAsc": "Price low-high",
+    "priceDesc": "Price high-low",
+    "name":"Name"
+  },
+  "notFound":{
+    "description": "We couldn’t find what you were searching for."
+  },
+  "otherOffers":{
+    "title":"Other offers"
+  }
+}
